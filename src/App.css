@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Montserrat:wght@100;200;300;400;500;600;700&family=Nova+Cut&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;500;700&display=swap');
+
 .main{
   width: 100%;
   display: flex;
@@ -6,7 +8,6 @@
 }
 
 .container{
-  background-color: blueviolet;
   width: 80%;
   margin-top: 20px;
   display: flex;
@@ -14,15 +15,15 @@
 }
 
 .box1{
-  background-color: yellow;
   width: 650px;
-  height: 400px;
 }
 
 .box2{
-  background-color: rgb(8, 122, 33);
   width: 650px;
   height: 400px;
+  background-image: url(./img/hero.png);
+  background-position: center;
+  background-size: contain;
 }
 
 .tag{
@@ -31,4 +32,51 @@
   border: none;
   border-radius: 20px;
   background-color: rgb(185, 185, 185);
+  font-size: 15px;
+  font-family: 'poppins';
+  margin-bottom: -25px;
+}
+
+span{
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.title{
+  font-size: 3rem;
+  line-height: 3.5rem;
+  color: #0B1320;
+}
+
+.description{
+  font-family: 'poppins';
+  width: 100%;
+  font-size: 1.8rem;
+  color: #2b2b2b;
+  margin-top: -25px;
+}
+
+.call-actions{
+  width: 430px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.action1, .action2{
+  width: 200px;
+  height: 60px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.action1{
+  background-color: #0B1320;
+  color: #ffff;
+}
+
+.action2{
+  border: 1px solid #0B1320;
+  color: #0B1320;
 }
