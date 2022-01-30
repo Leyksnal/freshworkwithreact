@@ -53,18 +53,109 @@ function App() {
 
       <div className="opporunity-section">
         <div className="wrapper1">
-          <div className="section-img"></div>
+          <div className="section-imgleft"></div>
           <div className="opportunity-info">
             <button className="opportunity-tag">FIND MORE OPPORTUNITIES</button>
             <h2 className="opportunity-heading">Attract the best leads. Generate 10X more opportunities.</h2>
             <p className="opportunity-subheading">Attract visitors, convert them into leads, run campaigns, and turn your website into a lead generation machine.</p>
             <h3 className="features">Top features:</h3>
             <div className="todo-wrapper">
-              <div className="todoimg"></div>
+              <div className="todoimg1"></div>
               <div className="todotext">Create landing pages in minutes. Monitor and understand visitor intent.</div>
             </div>
-            <span className="more">Learn more {'->'}</span>
+            <div className="todo-wrapper">
+              <div className="todoimg2"></div>
+              <div className="todotext">Understand visitor intent. Track page visits and even actions on your site.</div>
+            </div>
+            <div className="todo-wrapper">
+              <div className="todoimg3"></div>
+              <div className="todotext">Chat in real-time with website visitors using AI-powered chatbots</div>
+            </div>
+            <div className="todo-wrapper">
+              <div className="todoimg4"></div>
+              <div className="todotext">Tailor email campaigns and generate cost-effective leads for sales</div>
+            </div>
+            <p className="more">Learn more {'->'}</p>
           </div>
+        </div>
+      </div>
+
+      <div className="opporunity-section">
+        <div className="wrapper1">
+          <div className="opportunity-info">
+            <button className="opportunity-tag">FIND MORE OPPORTUNITIES</button>
+            <h2 className="opportunity-heading">Attract the best leads. Generate 10X more opportunities.</h2>
+            <p className="opportunity-subheading">Attract visitors, convert them into leads, run campaigns, and turn your website into a lead generation machine.</p>
+            <h3 className="features">Top features:</h3>
+            <div className="todo-wrapper">
+              <div className="todoimg5"></div>
+              <div className="todotext">Create landing pages in minutes. Monitor and understand visitor intent.</div>
+            </div>
+            <div className="todo-wrapper">
+              <div className="todoimg6"></div>
+              <div className="todotext">Understand visitor intent. Track page visits and even actions on your site.</div>
+            </div>
+            <div className="todo-wrapper">
+              <div className="todoimg7"></div>
+              <div className="todotext">Chat in real-time with website visitors using AI-powered chatbots</div>
+            </div>
+            <div className="todo-wrapper">
+              <div className="todoimg8"></div>
+              <div className="todotext">Tailor email campaigns and generate cost-effective leads for sales</div>
+            </div>
+            <p className="more">Learn more {'->'}</p>
+          </div>
+          <div className="section-imgright"></div>
+        </div>
+      </div>
+
+      <div className="opporunity-section">
+        <div className="wrapper1">
+          <div className="section-imgleft1"></div>
+          <div className="opportunity-info">
+            <button className="opportunity-tag">FIND MORE OPPORTUNITIES</button>
+            <h2 className="opportunity-heading">Attract the best leads. Generate 10X more opportunities.</h2>
+            <p className="opportunity-subheading">Attract visitors, convert them into leads, run campaigns, and turn your website into a lead generation machine.</p>
+            <h3 className="features">Top features:</h3>
+            <div className="todo-wrapper">
+              <div className="todoimg9"></div>
+              <div className="todotext">Create landing pages in minutes. Monitor and understand visitor intent.</div>
+            </div>
+            <div className="todo-wrapper">
+              <div className="todoimg10"></div>
+              <div className="todotext">Understand visitor intent. Track page visits and even actions on your site.</div>
+            </div>
+            <div className="todo-wrapper">
+              <div className="todoimg11"></div>
+              <div className="todotext">Chat in real-time with website visitors using AI-powered chatbots</div>
+            </div>
+            <p className="more">Learn more {'->'}</p>
+          </div>
+        </div>
+      </div>
+
+      <div className="opporunity-section">
+        <div className="wrapper1">
+          <div className="opportunity-info">
+            <button className="opportunity-tag">FIND MORE OPPORTUNITIES</button>
+            <h2 className="opportunity-heading">Attract the best leads. Generate 10X more opportunities.</h2>
+            <p className="opportunity-subheading">Attract visitors, convert them into leads, run campaigns, and turn your website into a lead generation machine.</p>
+            <h3 className="features">Top features:</h3>
+            <div className="todo-wrapper">
+              <div className="todoimg12"></div>
+              <div className="todotext">Create landing pages in minutes. Monitor and understand visitor intent.</div>
+            </div>
+            <div className="todo-wrapper">
+              <div className="todoimg13"></div>
+              <div className="todotext">Understand visitor intent. Track page visits and even actions on your site.</div>
+            </div>
+            <div className="todo-wrapper">
+              <div className="todoimg14"></div>
+              <div className="todotext">Chat in real-time with website visitors using AI-powered chatbots</div>
+            </div>
+            <p className="more">Learn more {'->'}</p>
+          </div>
+          <div className="section-imgright1"></div>
         </div>
       </div>
     </div>
