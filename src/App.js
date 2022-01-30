@@ -83,25 +83,25 @@ function App() {
       <div className="opporunity-section">
         <div className="wrapper1">
           <div className="opportunity-info">
-            <button className="opportunity-tag">FIND MORE OPPORTUNITIES</button>
-            <h2 className="opportunity-heading">Attract the best leads. Generate 10X more opportunities.</h2>
-            <p className="opportunity-subheading">Attract visitors, convert them into leads, run campaigns, and turn your website into a lead generation machine.</p>
+            <button className="opportunity-tag">ENGAGE CONTEXTUALLY</button>
+            <h2 className="opportunity-heading">Deliver personalized experiences at scale. Improve lead engagement.</h2>
+            <p className="opportunity-subheading">Build tailored campaigns and optimize them with real-time data for better engagement.</p>
             <h3 className="features">Top features:</h3>
             <div className="todo-wrapper">
               <div className="todoimg5"></div>
-              <div className="todotext">Create landing pages in minutes. Monitor and understand visitor intent.</div>
+              <div className="todotext">Get a 360° view of a customer. Capture all customer interactions in one place.</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg6"></div>
-              <div className="todotext">Understand visitor intent. Track page visits and even actions on your site.</div>
+              <div className="todotext">Freddy AI identifies your best leads - the ones that are most likely to convert</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg7"></div>
-              <div className="todotext">Chat in real-time with website visitors using AI-powered chatbots</div>
+              <div className="todotext">Set up welcome emails or personalized journeys based on actions</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg8"></div>
-              <div className="todotext">Tailor email campaigns and generate cost-effective leads for sales</div>
+              <div className="todotext">Communicate across Phone, Email, WhatsApp, Chat</div>
             </div>
             <p className="more">Learn more {'->'}</p>
           </div>
@@ -113,21 +113,21 @@ function App() {
         <div className="wrapper1">
           <div className="section-imgleft1"></div>
           <div className="opportunity-info">
-            <button className="opportunity-tag">FIND MORE OPPORTUNITIES</button>
-            <h2 className="opportunity-heading">Attract the best leads. Generate 10X more opportunities.</h2>
-            <p className="opportunity-subheading">Attract visitors, convert them into leads, run campaigns, and turn your website into a lead generation machine.</p>
+            <button className="opportunity-tag">CLOSE DEALS FASTER</button>
+            <h2 className="opportunity-heading">Drive deals to closure, faster. Improve sales conversions by 50%.</h2>
+            <p className="opportunity-subheading">Freddy AI helps you focus on the right deals that will drive revenue. Get insights across the funnel from lead to revenue with multi-touch attribution.</p>
             <h3 className="features">Top features:</h3>
             <div className="todo-wrapper">
               <div className="todoimg9"></div>
-              <div className="todotext">Create landing pages in minutes. Monitor and understand visitor intent.</div>
+              <div className="todotext">Improve revenue predictability with Dynamic Forecasting</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg10"></div>
-              <div className="todotext">Understand visitor intent. Track page visits and even actions on your site.</div>
+              <div className="todotext">Find the best deals to close with AI-based Deal Insights</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg11"></div>
-              <div className="todotext">Chat in real-time with website visitors using AI-powered chatbots</div>
+              <div className="todotext"> Collaborate on Slack across departments to close deals faster</div>
             </div>
             <p className="more">Learn more {'->'}</p>
           </div>
@@ -137,21 +137,21 @@ function App() {
       <div className="opporunity-section">
         <div className="wrapper1">
           <div className="opportunity-info">
-            <button className="opportunity-tag">FIND MORE OPPORTUNITIES</button>
-            <h2 className="opportunity-heading">Attract the best leads. Generate 10X more opportunities.</h2>
-            <p className="opportunity-subheading">Attract visitors, convert them into leads, run campaigns, and turn your website into a lead generation machine.</p>
+            <button className="opportunity-tag">NURTURE CUSTOMER RELATIONSHIPS</button>
+            <h2 className="opportunity-heading">Develop nurture campaigns that delight customers. Increase repeat purchases by over 50%.</h2>
+            <p className="opportunity-subheading">Nurture leads along the funnel with targeted campaigns, support customers with educational content, and build deeper relationships. </p>
             <h3 className="features">Top features:</h3>
             <div className="todo-wrapper">
               <div className="todoimg12"></div>
-              <div className="todotext">Create landing pages in minutes. Monitor and understand visitor intent.</div>
+              <div className="todotext">Develop nurture campaigns with triggers, actions, and conditions</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg13"></div>
-              <div className="todotext">Understand visitor intent. Track page visits and even actions on your site.</div>
+              <div className="todotext"> Send transactional emails to customers to upsell and cross-sell</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg14"></div>
-              <div className="todotext">Chat in real-time with website visitors using AI-powered chatbots</div>
+              <div className="todotext">Get a breakdown of campaign analytics for a holistic understanding of your market and audience</div>
             </div>
             <p className="more">Learn more {'->'}</p>
           </div>

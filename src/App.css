@@ -236,7 +236,7 @@ span{
 .opportunity-tag{
   background-color: #CECFD2;
   border: none;
-  width: 270px;
+  width: max-content;
   height: 30px;
   font-size: 1.1rem;
   font-weight: 700;
