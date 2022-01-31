@@ -61,19 +61,19 @@ function App() {
             <h3 className="features">Top features:</h3>
             <div className="todo-wrapper">
               <div className="todoimg1"></div>
-              <div className="todotext">Create landing pages in minutes. Monitor and understand visitor intent.</div>
+              <div className="todotext">Create <strong>landing pages</strong> in minutes. Monitor and understand visitor intent.</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg2"></div>
-              <div className="todotext">Understand visitor intent. Track page visits and even actions on your site.</div>
+              <div className="todotext">Understand visitor intent. Track <strong>page visits and even actions</strong> on your site.</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg3"></div>
-              <div className="todotext">Chat in real-time with website visitors using AI-powered chatbots</div>
+              <div className="todotext">Chat in real-time with website visitors using <strong>AI-powered chatbots</strong></div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg4"></div>
-              <div className="todotext">Tailor email campaigns and generate cost-effective leads for sales</div>
+              <div className="todotext">Tailor <strong>email campaigns</strong> and generate cost-effective leads for sales</div>
             </div>
             <p className="more">Learn more {'->'}</p>
           </div>
@@ -89,19 +89,19 @@ function App() {
             <h3 className="features">Top features:</h3>
             <div className="todo-wrapper">
               <div className="todoimg5"></div>
-              <div className="todotext">Get a 360° view of a customer. Capture all customer interactions in one place.</div>
+              <div className="todotext">Get a <strong>360° view of a customer.</strong> Capture all customer interactions in one place.</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg6"></div>
-              <div className="todotext">Freddy AI identifies your best leads - the ones that are most likely to convert</div>
+              <div className="todotext"><strong>Freddy AI</strong> identifies your best leads - the ones that are most likely to convert</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg7"></div>
-              <div className="todotext">Set up welcome emails or personalized journeys based on actions</div>
+              <div className="todotext">Set up welcome emails or <strong>personalized journeys</strong> based on actions</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg8"></div>
-              <div className="todotext">Communicate across Phone, Email, WhatsApp, Chat</div>
+              <div className="todotext">Communicate across <strong>Phone, Email, WhatsApp, Chat</strong></div>
             </div>
             <p className="more">Learn more {'->'}</p>
           </div>
@@ -119,15 +119,15 @@ function App() {
             <h3 className="features">Top features:</h3>
             <div className="todo-wrapper">
               <div className="todoimg9"></div>
-              <div className="todotext">Improve revenue predictability with Dynamic Forecasting</div>
+              <div className="todotext">Improve revenue predictability with <strong>Dynamic Forecasting</strong></div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg10"></div>
-              <div className="todotext">Find the best deals to close with AI-based Deal Insights</div>
+              <div className="todotext">Find the best deals to close with <strong>AI-based Deal Insights</strong></div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg11"></div>
-              <div className="todotext"> Collaborate on Slack across departments to close deals faster</div>
+              <div className="todotext"><strong>Collaborate on Slack</strong> across departments to close deals faster</div>
             </div>
             <p className="more">Learn more {'->'}</p>
           </div>
@@ -143,15 +143,15 @@ function App() {
             <h3 className="features">Top features:</h3>
             <div className="todo-wrapper">
               <div className="todoimg12"></div>
-              <div className="todotext">Develop nurture campaigns with triggers, actions, and conditions</div>
+              <div className="todotext">Develop <strong>nurture campaigns</strong> with triggers, actions, and conditions</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg13"></div>
-              <div className="todotext"> Send transactional emails to customers to upsell and cross-sell</div>
+              <div className="todotext"> Send <strong>transactional emails</strong> to customers to upsell and cross-sell</div>
             </div>
             <div className="todo-wrapper">
               <div className="todoimg14"></div>
-              <div className="todotext">Get a breakdown of campaign analytics for a holistic understanding of your market and audience</div>
+              <div className="todotext">Get a breakdown of <strong>campaign analytics</strong> for a holistic understanding of your market and audience</div>
             </div>
             <p className="more">Learn more {'->'}</p>
           </div>
